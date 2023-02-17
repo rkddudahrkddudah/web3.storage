@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.35.1](https://github.com/web3-storage/web3.storage/compare/website-v2.35.0...website-v2.35.1) (2023-02-17)
+
+
+### Bug Fixes
+
+* PSA language emphasizing not for production ([#2209](https://github.com/web3-storage/web3.storage/issues/2209)) ([6f06ca7](https://github.com/web3-storage/web3.storage/commit/6f06ca7dd87737ba08ae2c6bcc619f0951b2545c))
+
 ## [2.35.0](https://github.com/web3-storage/web3.storage/compare/website-v2.34.0...website-v2.35.0) (2023-01-13)
 
 
